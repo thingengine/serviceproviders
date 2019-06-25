@@ -7,7 +7,7 @@
     {
       "name": "Trent Ramseyer",
       "email": "trentramseyer@gmail.com",
-      "homepage": "https://trentramseyer.com/",
+      "homepage": "https://trentramseyer.com",
       "role": "Original Developer"
     }
   ],
@@ -25,7 +25,7 @@
       "ThingEngine\\ServiceProviders\\": "./src",
       "ThingEngine\\ServiceProviders\\Data\\" : "./src/Data",
       "ThingEngine\\ServiceProviders\\Email\\" : "./src/Email",
-      "ThingEngine\\ServiceProviders\\Files" : "./src/Files",
+      "ThingEngine\\ServiceProviders\\Files\\" : "./src/Files",
       "ThingEngine\\ServiceProviders\\Payment\\" : "./src/Payment",
       "ThingEngine\\ServiceProviders\\Voice\\" : "./src/Voice",
       "ThingEngine\\ServiceProviders\\Video\\" : "./src/Video"
